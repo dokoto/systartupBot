@@ -1,0 +1,14 @@
+{
+  "name": "systartupbot",
+  "version": "0.0.1",
+  "description": "Send a message when server finish startup",
+  "main": "systartupBotd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dokoto.moloko@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot": "^0.1.9"
+  }
+}
